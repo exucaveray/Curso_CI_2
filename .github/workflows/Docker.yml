@@ -44,5 +44,5 @@ jobs:
     # Push is a shorthand for --output=type=registry
         push: true
     # List of tags
-        tags: exucaveray/go_ci:${{github.ref_name}}
+        tags: exucaveray/go_ci
         #tags: leonardosartorello/go_ci:${{github.ref_name}}
